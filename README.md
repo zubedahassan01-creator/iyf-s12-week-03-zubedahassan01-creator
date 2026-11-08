@@ -76,12 +76,3 @@ Moving a site to a repository-specific GitHub Pages URL means its links should b
 
 The original Week 2 pages used root-relative navigation links and referenced `style.css`, while the stylesheet file is named `styles.css`. I updated the Week 3 copy to use repository-relative links and the matching stylesheet name, leaving the marked Week 2 repository untouched. Git Bash could not start in the workspace because Windows denied creation of the MSYS named object, so the non-Git terminal exercises remain unrun and are marked in `terminal-log.md`.
 
-## Collaboration
-
-- **Partner:** Not assigned yet.
-- **Pair repository:** Not available; no pair lead has been assigned yet.
-- **PR I opened:** Not opened yet; there is no assigned pair repository.
-- **PR I reviewed:** Not reviewed yet; there is no assigned partner PR.
-- **Merge-conflict PR:** Not created yet; the pair lab cannot begin until a partner and shared repository are assigned.
-
-Once a partner is assigned, I will add full links to the pair repository, my PR, the PR I reviewed, and the merge-conflict PR. If no partner is assigned before the deadline, I will update this section to explain that and link the individual work I completed, following the course instructions.
